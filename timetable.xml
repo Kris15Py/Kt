@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE timeTable SYSTEM "timetable.dtd">
+<timeTable>
+    <complexes>
+        <complex code="C001">
+            <name>Main Sports Complex</name>
+            <address>123 Fitness Avenue, City Center</address>
+        </complex>
+        <complex code="C002">
+            <name>East Side Arena</name>
+            <address>456 Park Lane, East District</address>
+        </complex>
+    </complexes>
+    <lessons>
+        <lesson no="1" complex="C001">
+            <date>2026-10-05</date>
+            <time>10:00</time>
+        </lesson>
+        <lesson no="2" complex="C002">
+            <date>2026-10-05</date>
+            <time>14:30</time>
+        </lesson>
+        <lesson no="3" complex="C001">
+            <date>2026-10-06</date>
+            <time>09:00</time>
+        </lesson>
+    </lessons>
+</timeTable>
